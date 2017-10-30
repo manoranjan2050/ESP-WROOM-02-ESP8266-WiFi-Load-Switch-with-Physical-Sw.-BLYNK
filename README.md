@@ -5,3 +5,9 @@ ESP-WROOM-02 BLYNK ONE Switch is a WiFi Load switch for Light Bulb, Fan, A/C etc
 Synchronized Physical switch change button state on BLYNK server.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/g_l_Oe-BA2k/0.jpg)](https://www.youtube.com/watch?v=g_l_Oe-BA2k) 
+
+
+For instructions and setup. http://esp8266.signal.com.tr/
+
+
+
